@@ -1,5 +1,8 @@
 # Tour list
-Second of 15 React Projects following [John Smilga](https://github.com/john-smilga/react-projects) tutorial from FreeCodeCamp course. This project was built using UseEfect and UseState to consume an API, show details about tour description, remove item and refresh list.
+Third of 15 React Projects following [John Smilga](https://github.com/john-smilga/react-projects) tutorial from FreeCodeCamp course. 
+This project we created 3 buttons to show next, previous and random reviews.
+
+
 ### 🛠 Tools:
 - React
 - JavaScript
