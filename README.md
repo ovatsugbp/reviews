@@ -1,4 +1,4 @@
-# Tour list
+# Reviews Page
 Third of 15 React Projects following [John Smilga](https://github.com/john-smilga/react-projects) tutorial from FreeCodeCamp course. 
 This project we created 3 buttons to show next, previous and random reviews.
 
